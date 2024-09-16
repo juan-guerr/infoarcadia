@@ -261,3 +261,51 @@ padding-top: 50px;
 	padding-bottom: 60px;
 	text-align: center;
 }
+
+#hero-moda {
+
+	background-color: #300569;
+padding-top: 50px;
+	padding-bottom: 60px;
+	text-align: center;
+
+}
+
+
+#botas{
+	
+	padding-bottom: 40px;
+}
+
+#botas img{
+	width: 700px;
+}
+#botas p{
+	text-align: justify;
+	margin-left: 80px;
+	margin-right: 80px;
+}
+#desigual{
+	padding: 50px;
+}
+#desigual p{
+	text-align: justify;
+	margin-left: 80px;
+	margin-right: 80px;
+
+}
+
+#desigual img{
+	width: 400px;
+}
+
+#balenciaga p{
+	text-align: justify;
+	margin-left: 80px;
+	margin-right: 80px;
+	
+}
+
+#balenciaga {
+	padding: 50px;
+}
